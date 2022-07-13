@@ -6,6 +6,7 @@ public class ResourceCentre {
 
 		//Student 1 - Ian
 		//student 2 - maegan
+		
 	
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
