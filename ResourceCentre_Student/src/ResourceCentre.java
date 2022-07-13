@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class ResourceCentre {
 
 	public static void main(String[] args) {
-		//Student 1 - Ian
+		//Student 1 - Ian Goh
 
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
