@@ -5,8 +5,8 @@ public class ResourceCentre {
 	public static void main(String[] args) {
 
 		//Student 1 - Ian
-		//student 2 - maegan
-		//student 3 - ethan
+		//Student 2 - Maegan
+		//Student 3 - Ethan
 		
 	
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
