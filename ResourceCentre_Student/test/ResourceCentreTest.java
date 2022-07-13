@@ -17,7 +17,7 @@ public class ResourceCentreTest {
 	
 	private ArrayList<Camcorder> camcorderList;
 	private ArrayList<Chromebook> chromebookList;
-	
+	 
 	public ResourceCentreTest() {
 		super();
 	}
